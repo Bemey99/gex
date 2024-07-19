@@ -1,3 +1,3 @@
-local premium = {
+local blacklist = {
     "e58189c6-f328-49da-aa3b-c5761bb42fcf",
 }
