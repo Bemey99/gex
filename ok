@@ -1,4 +1,3 @@
-local blacklist = {
-"HWID12345678",
-"HWID87654321", 
+local premium = {
+    "e58189c6-f328-49da-aa3b-c5761bb42fcf",
 }
