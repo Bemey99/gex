@@ -1,0 +1,4 @@
+local blacklist = {
+"HWID12345678",
+"HWID87654321", 
+}
